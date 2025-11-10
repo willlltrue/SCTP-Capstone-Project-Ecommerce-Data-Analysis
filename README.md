@@ -15,4 +15,5 @@ My role in this project is a data analyst of the company to perform: Trend analy
 	•	Calculate key metrics: average order value, customer lifetime value.
 	•	Examine product performance by time, such as daily/weekly/monthly sales.
 	•	Visualize geographic sales distribution and spot opportunities for expansion.
+	•	Build and evaluate a predictive model for the sales performance.
 	•	Provide actionable recommendations for marketing and operational improvements.
