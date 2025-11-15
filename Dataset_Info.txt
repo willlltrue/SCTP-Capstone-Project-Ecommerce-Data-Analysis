@@ -1,4 +1,3 @@
-Dataset used is named data.csv
 The referenced Kaggle e-commerce dataset is made by the UCI Machine Learning Repository which contains actual transactions from 2010 and 2011. 
 This dataset contains UK e-commerce transactions, including invoice numbers, product codes, descriptions, quantities, dates, prices, customer IDs, and countries—making the transactions. 
 Original Dataset can be found from link: https://www.kaggle.com/datasets/carrie1/ecommerce-data. 
